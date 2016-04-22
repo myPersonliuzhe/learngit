@@ -8,3 +8,5 @@ my this is very cool!
 
 
 new branch
+
+Creating a new branch is quick and simple.
